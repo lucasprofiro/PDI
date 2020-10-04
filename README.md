@@ -3,7 +3,7 @@ Processamento Digital de Imagens - 2020/1 especial
 
 Esse é um projeto para a disciplina de Processamento Digital de Imagens usando a linguagem de programação Python.
 
-##Pactes do Matplotlib
+## Pactes do Matplotlib
 https://matplotlib.org/3.1.1/py-modindex.html
 
 ### Atalhos 
