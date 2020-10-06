@@ -53,7 +53,3 @@ imgplot = plt.imshow(imgb, cmap = 'gray') #print da imagem binaria
 
 # histograma
 lista_bits, qnt = histograma(img,256)
-
-
-    
-
