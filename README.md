@@ -12,3 +12,6 @@ https://matplotlib.org/3.1.1/api/image_api.html#module-matplotlib.image
 
 Matplotlib Pyplot
 https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.html#module-matplotlib.pyplot
+
+FFT Numpy
+https://numpy.org/doc/stable/reference/routines.fft.html#module-numpy.fft
